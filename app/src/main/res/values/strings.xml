@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="find">Find Authors</string>
+    <string name="infoss">Authors</string>
+    <string-array name="spinner">
+        <item>Rabindranath Tagore</item>
+        <item>Kazi Nazrul Islam</item>
+        <item>Sarat Chandra Chattopadhyay</item>
+        <item>Bankim Chandra Chattopadhyay</item>
+        <item>Jibanananda Das</item>
+    </string-array>
+</resources>
